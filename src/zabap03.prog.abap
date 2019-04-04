@@ -7,6 +7,6 @@ REPORT ZABAP03.
 
 write:/'helo again'.
 
-ParamEters:
-
-P_SAMPLE TYPE I.
+*ParamEters:
+*
+*P_SAMPLE TYPE I.
