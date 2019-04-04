@@ -6,6 +6,7 @@
 REPORT ZABAP03.
 
 write:/'helo again'.
+WRITE:/'YELLLOW'.
 
 *ParamEters:
 *
