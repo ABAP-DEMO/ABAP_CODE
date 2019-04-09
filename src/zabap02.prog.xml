@@ -15,7 +15,6 @@
     <item>
      <ID>R</ID>
      <ENTRY>abap code</ENTRY>
-     <RESULT>SUCCESS</RESULT>     
      <LENGTH>9</LENGTH>
     </item>
    </TPOOL>
