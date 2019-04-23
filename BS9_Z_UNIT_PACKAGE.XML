@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite created="20190415 100029">
+   <testcase classname="$TMP.~GET_CHANNEL_DES" name="" time="0.0" />
+   <testcase classname="$TMP.~GET_PRODUCT_DETAILS" name="" time="0.0" />
+   <testcase classname="$TMP.~GET_PRODUCT_VALIDITY" name="" time="0.0" />
+   <testcase classname="$TMP.~VALIDATE" name="" time="0.0" />
+</testsuite>

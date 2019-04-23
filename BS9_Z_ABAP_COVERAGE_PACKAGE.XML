@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- EMMA report from ABAP -->
+<report created="20190415 100028">
+  <data>
+    <all name="all classes">
+        <coverage type="class, %" value="0% (0/0)"/>
+        <coverage type="method, %" value="0% (0/0)"/>
+        <coverage type="block, %" value="0% (0/0)"/>
+        <coverage type="line, %" value="0% (0/0)"/>
+    </all>
+  </data>
+</report>
